@@ -11,4 +11,4 @@ Usage: ./filter -b | g | r | s | e   INFILE.bmp OUTFILE.bmp
 *Credit: **Ina Wong https://www.artstation.com/artwork/q9yB1z***
 
 ![Mundo](https://user-images.githubusercontent.com/20610052/137868530-3fbe1638-c5f0-434f-8316-6eb691991677.png)
-**-e**
+***-e***
